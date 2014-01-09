@@ -1,0 +1,7 @@
+#content, #header, #footer {
+	width: 900px;
+}
+
+html, #rheader, #rfooter {
+	min-width: 900px;
+}
